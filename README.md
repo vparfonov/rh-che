@@ -1,4 +1,9 @@
+[![Master Build Status](https://ci.centos.org/buildStatus/icon?subject=master&job=devtools-rh-che-build-che-credentials-master/)](https://ci.centos.org/job/devtools-rh-che-build-che-credentials-master/)
+[![Compatibility Build Status](https://ci.centos.org/buildStatus/icon?subject=compatibility&job=devtools-rh-che-build-master/)](https://ci.centos.org/view/Devtools/job/devtools-rh-che-build-master/)
+
 # Eclipse Che on OpenShift 
+
+[![Contribute](https://che.openshift.io/factory/resources/factory-contribute.svg)](https://che.openshift.io/f?url=https://raw.githubusercontent.com/redhat-developer/rh-che/master/devfile.yaml)
 
 ## Table Of Contents
 
